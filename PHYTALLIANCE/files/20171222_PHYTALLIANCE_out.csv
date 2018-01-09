@@ -1,0 +1,222 @@
+CODE_FICH_PART;NUM_CLIENT;CODE_MAILING;NOMPRENOM;ADRESSE;ADRESSE2;CP;VILLE;CIVILITE;PRENOM;NOM;TEL_FIXE;DATE_NAISSANCE;NUM_CLIENT_EXTERNE;TEL_PORT
+71320171222; 73560001;YF989 ;CORDONNIER ISABELLE                   ;;;;;MME         ;ISABELLE                      ;CORDONNIER                    ;0671379076;19661112;60407222            ;0325387716
+71320171222; 73560002;YF989 ;MARMUS eric                           ;;;;;MME         ;eric                          ;MARMUS                        ;0608983298;19460604;81627595            ;          
+71320171222; 73560003;YF989 ;CHARRIAT M MARIE NOELLE               ;;;;;MME         ;MARIE NOELLE                  ;CHARRIAT M                    ;0673998403;        ;12427300            ;0241465177
+71320171222; 73560004;YF989 ;LECLERCQ EMELINE                      ;;;;;MME         ;EMELINE                       ;LECLERCQ                      ;          ;19790720;80573815            ;0321265929
+71320171222; 73560005;YF989 ;BOT ROSELYNE                          ;;;;;MME         ;ROSELYNE                      ;BOT                           ;          ;19441210;9371375             ;0169782062
+71320171222; 73560006;YF989 ;MAUREL ISABELLE                       ;;;;;MME         ;ISABELLE                      ;MAUREL                        ;0668586854;19661229;9613413             ;0565719658
+71320171222; 73560007;YF989 ;JOURNAIX CHANTAL                      ;;;;;MME         ;CHANTAL                       ;JOURNAIX                      ;0681421612;19590530;6640779             ;0473831903
+71320171222; 73560008;YF989 ;TEMPLE JANINE                         ;;;;;MME         ;JANINE                        ;TEMPLE                        ;          ;19320101;15520767            ;0231377903
+71320171222; 73560009;YF989 ;GOBBO CHANTAL                         ;;;;;MME         ;CHANTAL                       ;GOBBO                         ;0671228769;19610225;60413297            ;          
+71320171222; 73560010;YF989 ;LUISON EVELYNE                        ;;;;;MME         ;EVELYNE                       ;LUISON                        ;0680281739;19601025;80868599            ;0384928237
+71320171222; 73560011;YF989 ;SOUQUET VANESSA                       ;;;;;MR          ;VANESSA                       ;SOUQUET                       ;0662663818;19831222;85957026            ;          
+71320171222; 73560012;YF989 ;COTTAZ LAETITIA                       ;;;;;MME         ;LAETITIA                      ;COTTAZ                        ;0662948295;19700210;89276               ;0983354581
+71320171222; 73560013;YF989 ;JEANJEAN ODILE                        ;;;;;MELLE       ;ODILE                         ;JEANJEAN                      ;0674934166;19690217;95721               ;          
+71320171222; 73560014;YF989 ;RAIMOND CLAUDE                        ;;;;;MME         ;CLAUDE                        ;RAIMOND                       ;0675205498;19401006;2998519             ;0240267445
+71320171222; 73560015;YF989 ;OUACHEMI SOUHILA                      ;;;;;MME         ;SOUHILA                       ;OUACHEMI                      ;0659513403;19740619;86200112            ;          
+71320171222; 73560016;YF989 ;BLANC JOSIANE                         ;;;;;MME         ;JOSIANE                       ;BLANC                         ;0637550997;19510829;81017519            ;0490619117
+71320171222; 73560017;YF989 ;DELOGES GHISLAINE                     ;;;;;MME         ;GHISLAINE                     ;DELOGES                       ;0671114427;19551230;18040528            ;          
+71320171222; 73560018;YF989 ;ROSSIN NATHALIE                       ;;;;;MELLE       ;NATHALIE                      ;ROSSIN                        ;0619066144;19780609;82320992            ;0426515824
+71320171222; 73560019;YF989 ;LECOEUR Marie-Thérèse                 ;;;;;MME         ;Marie-Thérèse                 ;LECOEUR                       ;          ;19440121;13354859            ;0235384351
+71320171222; 73560020;YF989 ;EL HADOUTI RACHIDA                    ;;;;;MME         ;RACHIDA                       ;EL HADOUTI                    ;0633972785;19821221;60410608            ;          
+71320171222; 73560021;YF989 ;BALDINO KARINE                        ;;;;;MME         ;KARINE                        ;BALDINO                       ;0646692540;19731214;83897185            ;          
+71320171222; 73560022;YF989 ;LESUEUR REJANE                        ;;;;;MME         ;REJANE                        ;LESUEUR                       ;          ;19580101;60009550            ;0235804149
+71320171222; 73560023;YF989 ;LAGACHE AUDREY                        ;;;;;MELLE       ;AUDREY                        ;LAGACHE                       ;0650774238;19871101;85789382            ;          
+71320171222; 73560024;YF989 ;GILLET JACQUELINE                     ;;;;;MME         ;JACQUELINE                    ;GILLET                        ;0611525383;        ;60319335            ;          
+71320171222; 73560025;YF989 ;CAVAILLES CATHERINE                   ;;;;;MME         ;CATHERINE                     ;CAVAILLES                     ;0675854358;19641125;81940662            ;0563374203
+71320171222; 73560026;YF989 ;BOYER CECILE                          ;;;;;MME         ;CECILE                        ;BOYER                         ;0770906466;19450610;9545772             ;0563041001
+71320171222; 73560027;YF989 ;MANOLIOS ALEXANDRA                    ;;;;;MME         ;ALEXANDRA                     ;MANOLIOS                      ;0658107854;19880330;83875929            ;          
+71320171222; 73560028;YF989 ;PARIS MARYSE                          ;;;;;MME         ;MARYSE                        ;PARIS                         ;0698250960;19510101;80084766            ;0384817823
+71320171222; 73560029;YF989 ;PURNELLE MARTINE                      ;;;;;MME         ;MARTINE                       ;PURNELLE                      ;0666520649;19530310;9919517             ;0323802411
+71320171222; 73560030;YF989 ;SAIGNES PASCALE                       ;;;;;MME         ;PASCALE                       ;SAIGNES                       ;0625572990;19640915;84779131            ;          
+71320171222; 73560031;YF989 ;BOUTELET CHRISTELLE                   ;;;;;MME         ;CHRISTELLE                    ;BOUTELET                      ;0662403224;19750731;60315800            ;          
+71320171222; 73560032;YF989 ;COLIN NATHALIE                        ;;;;;MME         ;NATHALIE                      ;COLIN                         ;0626397933;19690426;84804831            ;          
+71320171222; 73560033;YF989 ;CHASSETUILLIER MARIE CLAUDE           ;;;;;MME         ;MARIE CLAUDE                  ;CHASSETUILLIER                ;0672837383;        ;19879510            ;0142020667
+71320171222; 73560034;YF989 ;BRICOT NICOLE                         ;;;;;MME         ;NICOLE                        ;BRICOT                        ;0679295825;19470603;81210580            ;0130623767
+71320171222; 73560035;YF989 ;NIAF DANIELLE                         ;;;;;MME         ;DANIELLE                      ;NIAF                          ;0660053542;19540101;81076353            ;0977827464
+71320171222; 73560036;YF989 ;VILLENEUVE ISABELLE                   ;;;;;MME         ;ISABELLE                      ;VILLENEUVE                    ;0660516837;19661217;84166943            ;          
+71320171222; 73560037;YF989 ;MATHIAS JOSETTE                       ;;;;;MME         ;JOSETTE                       ;MATHIAS                       ;          ;19340123;9792763             ;0471034157
+71320171222; 73560038;YF989 ;BEYRLE CHRISTIANE                     ;;;;;MME         ;CHRISTIANE                    ;BEYRLE                        ;          ;        ;19973445            ;0388918909
+71320171222; 73560039;YF989 ;LECLERCQ COLETTE                      ;;;;;MME         ;COLETTE                       ;LECLERCQ                      ;0684228052;19420306;83751011            ;0982516214
+71320171222; 73560040;YF989 ;LESTRUHAUT REGIS                      ;;;;;MR          ;REGIS                         ;LESTRUHAUT                    ;          ;19520823;4016957             ;0556583676
+71320171222; 73560041;YF989 ;VIRCONDELET MICHELE                   ;;;;;MME         ;MICHELE                       ;VIRCONDELET                   ;0680591769;19630412;81559822            ;0384970763
+71320171222; 73560042;YF989 ;RODRIGUES FATIMA                      ;;;;;MME         ;FATIMA                        ;RODRIGUES                     ;0685904192;19630530;85786672            ;          
+71320171222; 73560043;YF989 ;CONQUET EVELYNE                       ;;;;;MME         ;EVELYNE                       ;CONQUET                       ;0686968991;19590101;81444622            ;0565316199
+71320171222; 73560044;YF989 ;DA ROLD YVETTE                        ;;;;;MME         ;YVETTE                        ;DA ROLD                       ;0624663651;19560910;80617256            ;0324276442
+71320171222; 73560045;YF989 ;DELOMIER MARIE CLAUDE                 ;;;;;MME         ;MARIE CLAUDE                  ;DELOMIER                      ;0648722939;19620908;4216921             ;0557428144
+71320171222; 73560046;YF989 ;SMAGGHE MARTINE                       ;;;;;MME         ;MARTINE                       ;SMAGGHE                       ;          ;19570212;80559530            ;0326476801
+71320171222; 73560047;YF989 ;DAVIDAS LADISLAS                      ;;;;;MME         ;LADISLAS                      ;DAVIDAS                       ;0638969611;19510627;82849649            ;0143827210
+71320171222; 73560048;YF989 ;LIEFFROY MICHELE                      ;;;;;MELLE       ;MICHELE                       ;LIEFFROY                      ;0637520844;19460528;82822039            ;0329669734
+71320171222; 73560049;YF989 ;SALAUN MARIE LOUISE                   ;;;;;MME         ;MARIE LOUISE                  ;SALAUN                        ;0652845629;19361027;3790250             ;0553824739
+71320171222; 73560050;YF989 ;VALLETTE CLAUDE                       ;;;;;MME         ;CLAUDE                        ;VALLETTE                      ;0689636138;19541217;85489060            ;          
+71320171222; 73560051;YF989 ;JOHANET PATRICIA                      ;;;;;MME         ;PATRICIA                      ;JOHANET                       ;          ;19671201;8752871             ;0473739318
+71320171222; 73560052;YF989 ;TROUILHAS JANINE                      ;;;;;MME         ;JANINE                        ;TROUILHAS                     ;0616811595;19301212;55587               ;          
+71320171222; 73560053;YF989 ;REDONNET PIERRE                       ;;;;;MR          ;PIERRE                        ;REDONNET                      ;          ;19480814;13221612            ;0561794404
+71320171222; 73560054;YF989 ;MARCHETTI JEAN LUC                    ;;;;;MR          ;JEAN LUC                      ;MARCHETTI                     ;0671968247;19651204;84170758            ;          
+71320171222; 73560055;YF989 ;ROGER VALERIE                         ;;;;;MME         ;VALERIE                       ;ROGER                         ;0699417147;19670101;83325983            ;0386563558
+71320171222; 73560056;YF989 ;BLOT MONIQUE                          ;;;;;MME         ;MONIQUE                       ;BLOT                          ;0665230111;19570101;80400568            ;0235706091
+71320171222; 73560057;YF989 ;METAYER PATRICIA                      ;;;;;MME         ;PATRICIA                      ;METAYER                       ;0673640931;19620101;15073217            ;0146817754
+71320171222; 73560058;YF989 ;COCHET MARCELLE                       ;;;;;MME         ;MARCELLE                      ;COCHET                        ;0643802031;19410102;3109396             ;0243978495
+71320171222; 73560059;YF989 ;VOLATIER COLETTE                      ;;;;;MME         ;COLETTE                       ;VOLATIER                      ;0629451683;19600101;80525218            ;0384245465
+71320171222; 73560060;YF989 ;RENAUDON CLAUDIA                      ;;;;;MME         ;CLAUDIA                       ;RENAUDON                      ;          ;        ;83956050            ;0549051880
+71320171222; 73560061;YF989 ;SOUYRIS NICOLE                        ;;;;;MME         ;NICOLE                        ;SOUYRIS                       ;0653939287;19610121;8254406             ;0553874250
+71320171222; 73560062;YF989 ;CLEMENT GEORGETTE                     ;;;;;MME         ;GEORGETTE                     ;CLEMENT                       ;0682302451;19380116;80026526            ;          
+71320171222; 73560063;YF989 ;STEPHANT MARIE CHRISTINE              ;;;;;MME         ;MARIE CHRISTINE               ;STEPHANT                      ;0771604227;19660703;18889968            ;0148275724
+71320171222; 73560064;YF989 ;COFFY VERONIQUE                       ;;;;;MME         ;VERONIQUE                     ;COFFY                         ;0632202878;19680901;86141532            ;          
+71320171222; 73560065;YF989 ;GAGNEUX JOSETTE                       ;;;;;MME         ;JOSETTE                       ;GAGNEUX                       ;0664942622;19350101;5106608             ;0247056067
+71320171222; 73560066;YF989 ;COSTE GENEVIEVE                       ;;;;;MME         ;GENEVIEVE                     ;COSTE                         ;0676288843;19300322;10315657            ;0491802494
+71320171222; 73560067;YF989 ;PETIT GAETANE                         ;;;;;MME         ;GAETANE                       ;PETIT                         ;0679687616;19630101;12952505            ;0477319787
+71320171222; 73560068;YF989 ;BARBARIT MARIE MADELEINE              ;;;;;MME         ;MARIE MADELEINE               ;BARBARIT                      ;          ;19420131;3180304             ;0251406025
+71320171222; 73560069;YF989 ;RIBEIRO GHISLAINE                     ;;;;;MME         ;GHISLAINE                     ;RIBEIRO                       ;          ;19580524;12613888            ;0477684594
+71320171222; 73560070;YF989 ;REDING SYLVIE                         ;;;;;MME         ;SYLVIE                        ;REDING                        ;0618014128;19610501;85806271            ;          
+71320171222; 73560071;YF989 ;DECOLAS JOSIANE                       ;;;;;MME         ;JOSIANE                       ;DECOLAS                       ;          ;19500818;81111418            ;0555645228
+71320171222; 73560072;YF989 ;HESS JEAN MARIE                       ;;;;;MR          ;JEAN MARIE                    ;HESS                          ;0672704963;19450101;60412320            ;0383242069
+71320171222; 73560073;YF989 ;BOURG STEPHANIE                       ;;;;;MME         ;STEPHANIE                     ;BOURG                         ;0682281412;        ;84356449            ;          
+71320171222; 73560074;YF989 ;URBINA CONSTANCE                      ;;;;;MME         ;CONSTANCE                     ;URBINA                        ;0660791722;19600605;9496222             ;0146641869
+71320171222; 73560075;YF989 ;CARRON JEANNINE                       ;;;;;MME         ;JEANNINE                      ;CARRON                        ;0620825191;19320211;60224688            ;0143336378
+71320171222; 73560076;YF989 ;SCHULZ JEAN                           ;;;;;            ;JEAN                          ;SCHULZ                        ;          ;        ;60009919            ;0387930743
+71320171222; 73560077;YF989 ;JACQUES MARIE CLAUDE                  ;;;;;MME         ;MARIE CLAUDE                  ;JACQUES                       ;0681727645;19440914;70022487            ;          
+71320171222; 73560078;YF989 ;BEDOURET LAURENCE                     ;;;;;MME         ;LAURENCE                      ;BEDOURET                      ;0678127226;        ;161441              ;          
+71320171222; 73560079;YF989 ;SAID MONIQUE                          ;;;;;MME         ;MONIQUE                       ;SAID                          ;0660514004;19430619;82526717            ;          
+71320171222; 73560080;YF989 ;LEVEQUE SANDRINE                      ;;;;;MME         ;SANDRINE                      ;LEVEQUE                       ;0665221207;19740302;80971258            ;0169016095
+71320171222; 73560081;YF989 ;CAUSSE GENEVIEVE                      ;;;;;MME         ;GENEVIEVE                     ;CAUSSE                        ;0631952726;        ;80527846            ;          
+71320171222; 73560082;YF989 ;KOENIG SEVERINE                       ;;;;;MME         ;SEVERINE                      ;KOENIG                        ;0760632320;19740614;86059602            ;0362903773
+71320171222; 73560083;YF989 ;LE COMTE DANIELE                      ;;;;;MME         ;DANIELE                       ;LE COMTE                      ;0607445102;19470511;18790709            ;0164995592
+71320171222; 73560084;YF989 ;BERTHELOT MARTINE                     ;;;;;MME         ;MARTINE                       ;BERTHELOT                     ;0676637253;19530101;15825467            ;0241346701
+71320171222; 73560085;YF989 ;RISSE PATRICIA                        ;;;;;MME         ;PATRICIA                      ;RISSE                         ;0660667758;19650101;83250204            ;0562580342
+71320171222; 73560086;YF989 ;FOUGERAS SYLVIE                       ;;;;;MME         ;SYLVIE                        ;FOUGERAS                      ;0647788063;19600808;80626143            ;0546944697
+71320171222; 73560087;YF989 ;GUERY MELANIE                         ;;;;;MME         ;MELANIE                       ;GUERY                         ;0618649961;19710507;84491938            ;          
+71320171222; 73560089;YF989 ;WEBER SYLVIA                          ;;;;;MME         ;SYLVIA                        ;WEBER                         ;0663054892;19580109;60136856            ;0388305555
+71320171222; 73560090;YF989 ;RABIET LAURA                          ;;;;;MME         ;LAURA                         ;RABIET                        ;0664803467;19890531;82672176            ;          
+71320171222; 73560091;YF989 ;IRR LELIA                             ;;;;;MME         ;LELIA                         ;IRR                           ;0605174630;        ;161451              ;          
+71320171222; 73560092;YF989 ;ROBINAUD ALAIN                        ;;;;;            ;ALAIN                         ;ROBINAUD                      ;0683558885;        ;133575              ;          
+71320171222; 73560093;YF989 ;SIMON PIERRE YVES                     ;;;;;            ;PIERRE YVES                   ;SIMON                         ;0646176445;        ;161452              ;          
+71320171222; 73560094;YF989 ;GLOUX ELODIE                          ;;;;;MELLE       ;ELODIE                        ;GLOUX                         ;0673308018;        ;161454              ;          
+71320171222; 73560095;YF989 ;POTIN MARIE                           ;;;;;MME         ;MARIE                         ;POTIN                         ;0668642212;19630110;86068167            ;          
+71320171222; 73560096;YF989 ;BOUCHER MOREAU MICHELLINE             ;;;;;MME         ;MICHELLINE                    ;BOUCHER MOREAU                ;0675275396;19531120;86031179            ;          
+71320171222; 73560097;YF989 ;GAZON NICOLE                          ;;;;;MME         ;NICOLE                        ;GAZON                         ;0671595908;19510625;81180823            ;0545908733
+71320171222; 73560098;YF989 ;DIDIER MARIE THERESE                  ;;;;;MME         ;MARIE THERESE                 ;DIDIER                        ;0678731908;19450710;80003697            ;0329241242
+71320171222; 73560099;YF989 ;DEZAN CHRISTINE                       ;;;;;MME         ;CHRISTINE                     ;DEZAN                         ;          ;19610318;85297911            ;0954849473
+71320171222; 73560100;YF989 ;MANTZ JEANNINE                        ;;;;;MME         ;JEANNINE                      ;MANTZ                         ;          ;19480108;80520905            ;0139913222
+71320171222; 73560101;YF989 ;RAYNAUD JANINE                        ;;;;;MME         ;JANINE                        ;RAYNAUD                       ;0684783455;        ;85641432            ;0561270193
+71320171222; 73560102;YF989 ;COUBARD MARTINE                       ;;;;;MME         ;MARTINE                       ;COUBARD                       ;0631724989;19660410;5202931             ;0243947160
+71320171222; 73560103;YF989 ;CLEMENT LAURIE                        ;;;;;MME         ;LAURIE                        ;CLEMENT                       ;0607222893;        ;161453              ;          
+71320171222; 73560104;YF989 ;ASTOLFI FRANCOISE                     ;;;;;MME         ;FRANCOISE                     ;ASTOLFI                       ;0609638812;19480219;84920465            ;0235090276
+71320171222; 73560105;YF989 ;IGOA MARIE JOSE                       ;;;;;MME         ;MARIE JOSE                    ;IGOA                          ;0640114827;19580101;81674952            ;0559375751
+71320171222; 73560106;YF989 ;BERNARD MARIE JEANNE                  ;;;;;MME         ;MARIE JEANNE                  ;BERNARD                       ;          ;19330815;81665636            ;0491404608
+71320171222; 73560107;YF989 ;FOUCHER MARTINE                       ;;;;;MME         ;MARTINE                       ;FOUCHER                       ;0623776244;19510912;83641688            ;0238939971
+71320171222; 73560108;YF989 ;HANDEL HELGA                          ;;;;;MME         ;HELGA                         ;HANDEL                        ;          ;19580211;83956310            ;0380421116
+71320171222; 73560109;YF989 ;JERGE MONIQUE                         ;;;;;MME         ;MONIQUE                       ;JERGE                         ;0621455165;19540604;60278582            ;0389682495
+71320171222; 73560110;YF989 ;HALLERS JACQUELINE                    ;;;;;MME         ;JACQUELINE                    ;HALLERS                       ;          ;19410513;82844662            ;0247556660
+71320171222; 73560111;YF989 ;TIREL ANNE MARIE                      ;;;;;MME         ;ANNE MARIE                    ;TIREL                         ;0664714170;19511107;81716680            ;          
+71320171222; 73560112;YF989 ;FOUCHEREAU MARTHE NOELE               ;;;;;MME         ;MARTHE NOELE                  ;FOUCHEREAU                    ;          ;19501230;82200309            ;0251409198
+71320171222; 73560113;YF989 ;GIACOMAZZI VALERIE                    ;;;;;MME         ;VALERIE                       ;GIACOMAZZI                    ;0671443253;19640416;450116              ;          
+71320171222; 73560114;YF989 ;GUITI CHAIMA                          ;;;;;MME         ;CHAIMA                        ;GUITI                         ;0658189860;19930405;85842355            ;          
+71320171222; 73560115;YF989 ;TISON SYLVIA                          ;;;;;MME         ;SYLVIA                        ;TISON                         ;0761242757;        ;83233017            ;0321309600
+71320171222; 73560116;YF989 ;COZYNS VERONIQUE                      ;;;;;MME         ;VERONIQUE                     ;COZYNS                        ;0603748132;19640328;83788956            ;          
+71320171222; 73560117;YF989 ;SAIDI HASNIA                          ;;;;;MME         ;HASNIA                        ;SAIDI                         ;0646735001;19750417;83023188            ;          
+71320171222; 73560118;YF989 ;RENAUD MARIE                          ;;;;;MME         ;MARIE                         ;RENAUD                        ;0671112921;19551003;82735019            ;0966930603
+71320171222; 73560119;YF989 ;BRETON MARINA                         ;;;;;MME         ;MARINA                        ;BRETON                        ;0645655605;19810523;84137495            ;0241445525
+71320171222; 73560120;YF989 ;MARMAIN NADINE                        ;;;;;MME         ;NADINE                        ;MARMAIN                       ;0633818773;19590302;84057775            ;0516177852
+71320171222; 73560121;YF989 ;CHABAS DOMINIQUE                      ;;;;;MME         ;DOMINIQUE                     ;CHABAS                        ;0685018276;19740104;86995472            ;          
+71320171222; 73560122;YF989 ;SIMON GERALDINE                       ;;;;;MME         ;GERALDINE                     ;SIMON                         ;0671720349;        ;84429438            ;0180375311
+71320171222; 73560123;YF989 ;CHACON WENDY                          ;;;;;MELLE       ;WENDY                         ;CHACON                        ;0638330326;19970906;87030162            ;          
+71320171222; 73560124;YF989 ;BOUZID HAYAT                          ;;;;;MME         ;HAYAT                         ;BOUZID                        ;0641517815;19740830;84258592            ;          
+71320171222; 73560125;YF989 ;DELOUP ERIKA                          ;;;;;MME         ;ERIKA                         ;DELOUP                        ;0673851342;19881205;87030226            ;          
+71320171222; 73560126;YF989 ;DESHAYES MARTINE                      ;;;;;MME         ;MARTINE                       ;DESHAYES                      ;0681061622;19530324;83817769            ;0473802837
+71320171222; 73560127;YF989 ;MARCHAL CLAIRE                        ;;;;;MELLE       ;CLAIRE                        ;MARCHAL                       ;0644065964;19970209;87030249            ;          
+71320171222; 73560128;YF989 ;POUPARD SEVERINE                      ;;;;;MME         ;SEVERINE                      ;POUPARD                       ;0672971406;19711028;83689955            ;          
+71320171222; 73560129;YF989 ;SALVI VALERIE                         ;;;;;MME         ;VALERIE                       ;SALVI                         ;0679655211;19651218;85148486            ;          
+71320171222; 73560130;YF989 ;GIRAULT MICHELE                       ;;;;;MME         ;MICHELE                       ;GIRAULT                       ;0663967008;19630924;83589442            ;          
+71320171222; 73560131;YF989 ;COTTIN CORINNE                        ;;;;;MME         ;CORINNE                       ;COTTIN                        ;0699158461;19690218;87034594            ;          
+71320171222; 73560132;YF989 ;BLANC GHYSLAINE                       ;;;;;MME         ;GHYSLAINE                     ;BLANC                         ;          ;19580314;87034761            ;0981898092
+71320171222; 73560133;YF989 ;CHABAANE ANNE PIERRE                  ;;;;;MME         ;ANNE PIERRE                   ;CHABAANE                      ;0658855021;19721028;87034764            ;0247301697
+71320171222; 73560134;YF989 ;LESECQ DANIELE                        ;;;;;MME         ;DANIELE                       ;LESECQ                        ;0668208729;19460310;87034913            ;0235876465
+71320171222; 73560135;YF989 ;QUINET JACKY                          ;;;;;MME         ;JACKY                         ;QUINET                        ;0632183680;19450728;87035102            ;          
+71320171222; 73560136;YF989 ;GROS STEPHANIE                        ;;;;;MME         ;STEPHANIE                     ;GROS                          ;0609540936;19741126;87035248            ;          
+71320171222; 73560137;YF989 ;MOULIS PATRICK                        ;;;;;MR          ;PATRICK                       ;MOULIS                        ;0609732457;19510428;87035274            ;          
+71320171222; 73560138;YF989 ;CLERTE CHRISTINE                      ;;;;;MME         ;CHRISTINE                     ;CLERTE                        ;0685579676;19580106;84226755            ;          
+71320171222; 73560139;YF989 ;GIRABET SANDRINE                      ;;;;;MME         ;SANDRINE                      ;GIRABET                       ;0633179108;19740504;87039003            ;          
+71320171222; 73560140;YF989 ;MOREIRA PIRES TERESA                  ;;;;;MME         ;TERESA                        ;MOREIRA PIRES                 ;0620409809;19800507;84354893            ;0967241125
+71320171222; 73560141;YF989 ;FREIRE ETELVINA                       ;;;;;MME         ;ETELVINA                      ;FREIRE                        ;0689622648;19640615;82755181            ;          
+71320171222; 73560142;YF989 ;DAVOIGNEAU CATHERINE                  ;;;;;MME         ;CATHERINE                     ;DAVOIGNEAU                    ;0768807048;19700527;85181416            ;          
+71320171222; 73560143;YF989 ;LEFRANCQ FABIENNE                     ;;;;;MME         ;FABIENNE                      ;LEFRANCQ                      ;0629420248;19640614;84862997            ;          
+71320171222; 73560144;YF989 ;DELAVERGNE DOMINIQUE                  ;;;;;MELLE       ;DOMINIQUE                     ;DELAVERGNE                    ;0614817008;19650623;83743864            ;          
+71320171222; 73560145;YF989 ;JULIEN Marie                          ;;;;;MME         ;Marie                         ;JULIEN                        ;0622456591;19580126;84047682            ;          
+71320171222; 73560146;YF989 ;BRAHIMI FATIHA                        ;;;;;MME         ;FATIHA                        ;BRAHIMI                       ;0624775977;19731224;83683080            ;          
+71320171222; 73560147;YF989 ;CHADEYRAS CAROLE                      ;;;;;MME         ;CAROLE                        ;CHADEYRAS                     ;0608557936;19601129;85792623            ;          
+71320171222; 73560148;YF989 ;SERGUEEFF ELISABETH                   ;;;;;MME         ;ELISABETH                     ;SERGUEEFF                     ;0689357900;19450715;883241685           ;          
+71320171222; 73560149;YF989 ;ERGUY MARTINE                         ;;;;;MME         ;MARTINE                       ;ERGUY                         ;0663467948;19500903;87014635            ;0130407948
+71320171222; 73560150;YF989 ;REGEASE CELINE                        ;;;;;MME         ;CELINE                        ;REGEASE                       ;0682402919;19730731;84920701            ;          
+71320171222; 73560151;YF989 ;PANABIERE VIOLAINE                    ;;;;;MME         ;VIOLAINE                      ;PANABIERE                     ;0616542197;19640925;83622756            ;          
+71320171222; 73560152;YF989 ;GUIET GERALDINE                       ;;;;;MME         ;GERALDINE                     ;GUIET                         ;0671238721;19780325;87025928            ;          
+71320171222; 73560153;YF989 ;DUBRAU NATHALIE                       ;;;;;MME         ;NATHALIE                      ;DUBRAU                        ;0683133069;19660101;82189025            ;0130550152
+71320171222; 73560154;YF989 ;PERLON MARIE ANNICK                   ;;;;;MME         ;MARIE ANNICK                  ;PERLON                        ;0662054284;19560101;87046975            ;0973672346
+71320171222; 73560155;YF989 ;DEBIEVRE NADINE                       ;;;;;MME         ;NADINE                        ;DEBIEVRE                      ;          ;19630128;83196828            ;0984065654
+71320171222; 73560156;YF989 ;LE PONTOIS LINDA                      ;;;;;MME         ;LINDA                         ;LE PONTOIS                    ;0662784344;19751004;87034925            ;          
+71320171222; 73560157;YF989 ;CAS Nadine                            ;;;;;MME         ;Nadine                        ;CAS                           ;0786970987;        ;999959981           ;0469186375
+71320171222; 73560158;YF989 ;BOULAY JOCELYNE                       ;;;;;MME         ;JOCELYNE                      ;BOULAY                        ;0676527416;19690323;83323204            ;          
+71320171222; 73560159;YF989 ;MELLOUKI AMARIA                       ;;;;;MME         ;AMARIA                        ;MELLOUKI                      ;0615781886;19750708;87034623            ;          
+71320171222; 73560160;YF989 ;EL HAIL HIND                          ;;;;;MME         ;HIND                          ;EL HAIL                       ;0611368281;19790101;87046968            ;0486652578
+71320171222; 73560161;YF989 ;THEVENEAU VALERIE                     ;;;;;MME         ;VALERIE                       ;THEVENEAU                     ;          ;19670314;84928397            ;0385251399
+71320171222; 73560162;YF989 ;GRIMAULT LAURENCE                     ;;;;;MME         ;LAURENCE                      ;GRIMAULT                      ;0610816454;19670511;999974925           ;0549514468
+71320171222; 73560163;YF989 ;PERRAS STEPHANIE                      ;;;;;MME         ;STEPHANIE                     ;PERRAS                        ;0646559883;19730525;84809168            ;0954585730
+71320171222; 73560164;YF989 ;FAFET SABINE                          ;;;;;MME         ;SABINE                        ;FAFET                         ;0678358148;        ;999960288           ;          
+71320171222; 73560165;YF989 ;GOUNON COLETTE                        ;;;;;MME         ;COLETTE                       ;GOUNON                        ;0663406645;19600430;83238473            ;0475613502
+71320171222; 73560166;YF989 ;RAVARIT EVELYNE                       ;;;;;MME         ;EVELYNE                       ;RAVARIT                       ;0663789995;19510728;83440927            ;          
+71320171222; 73560167;YF989 ;JACQUET LYSIANE                       ;;;;;MME         ;LYSIANE                       ;JACQUET                       ;0622871293;19620101;84197473            ;          
+71320171222; 73560168;YF989 ;PEYRATEAU SABRINA                     ;;;;;MME         ;SABRINA                       ;PEYRATEAU                     ;0771232284;19770105;85599849            ;0555449153
+71320171222; 73560169;YF989 ;CASIMIR CLAUDIA                       ;;;;;MME         ;CLAUDIA                       ;CASIMIR                       ;0641810314;19690727;87041347            ;          
+71320171222; 73560170;YF989 ;CARMONA ISABELLE                      ;;;;;MME         ;ISABELLE                      ;CARMONA                       ;0777820953;19730422;83549959            ;          
+71320171222; 73560171;YF989 ;BURIDON AUDREY                        ;;;;;MME         ;AUDREY                        ;BURIDON                       ;0750476761;        ;83729491            ;0478026908
+71320171222; 73560173;YF989 ;AULU DOMINIQUE                        ;;;;;MME         ;DOMINIQUE                     ;AULU                          ;0788570327;19500101;82760927            ;0248729969
+71320171222; 73560174;YF989 ;KASHAMA MARIANE                       ;;;;;MME         ;MARIANE                       ;KASHAMA                       ;0658175888;19540525;883579052           ;          
+71320171222; 73560175;YF989 ;MOREIRA ELISABETH                     ;;;;;MME         ;ELISABETH                     ;MOREIRA                       ;0663479115;        ;87013584            ;0981171469
+71320171222; 73560176;YF989 ;ABASSI SONIA                          ;;;;;MME         ;SONIA                         ;ABASSI                        ;0615033964;19771212;87043157            ;          
+71320171222; 73560177;YF989 ;DUPERRET BRIGITTE                     ;;;;;MME         ;BRIGITTE                      ;DUPERRET                      ;0623397309;19570701;2003877052          ;          
+71320171222; 73560178;YF989 ;POUGET MONIQUE                        ;;;;;MME         ;MONIQUE                       ;POUGET                        ;0681878358;19561005;87014562            ;          
+71320171222; 73560179;YF989 ;SACLEUX YVETTE                        ;;;;;MME         ;YVETTE                        ;SACLEUX                       ;0689508445;19590225;87030965            ;          
+71320171222; 73560180;YF989 ;Tock Mufa                             ;;;;;MR          ;Mufa                          ;Tock                          ;0768112790;        ;999966429           ;          
+71320171222; 73560181;YF989 ;VINAY MARION                          ;;;;;MME         ;MARION                        ;VINAY                         ;0644277040;19701005;87018186            ;          
+71320171222; 73560182;YF989 ;RODES ANNY                            ;;;;;MME         ;ANNY                          ;RODES                         ;0637913775;19480304;87043196            ;          
+71320171222; 73560183;YF989 ;KADRI NACIMA                          ;;;;;MME         ;NACIMA                        ;KADRI                         ;0662289614;19760420;87016624            ;          
+71320171222; 73560184;YF989 ;VINCON MARYLENE                       ;;;;;MME         ;MARYLENE                      ;VINCON                        ;0789559215;19640323;87024948            ;          
+71320171222; 73560185;YF989 ;LIGER MONIQUE                         ;;;;;MME         ;MONIQUE                       ;LIGER                         ;0673337071;19430716;999986469           ;0160823260
+71320171222; 73560186;YF989 ;WATRIN ELISA                          ;;;;;MME         ;ELISA                         ;WATRIN                        ;0637612340;19970516;87039033            ;          
+71320171222; 73560187;YF989 ;HELOU MARTINE                         ;;;;;MME         ;MARTINE                       ;HELOU                         ;0631678500;19641108;87020776            ;          
+71320171222; 73560188;YF989 ;MULSON ANNE MARIE                     ;;;;;MME         ;ANNE MARIE                    ;MULSON                        ;0675201728;19600309;87034587            ;          
+71320171222; 73560189;YF989 ;SILLEGUE GISELE                       ;;;;;MME         ;GISELE                        ;SILLEGUE                      ;0617897123;19460622;87035087            ;0535404361
+71320171222; 73560190;YF989 ;RIVIERE EVA                           ;;;;;MELLE       ;EVA                           ;RIVIERE                       ;0782888797;19951110;86744449            ;          
+71320171222; 73560191;YF989 ;CHAUVE NICOLE                         ;;;;;MME         ;NICOLE                        ;CHAUVE                        ;0628618819;        ;86940415            ;          
+71320171222; 73560192;YF989 ;OLIVIER MURIEL                        ;;;;;MME         ;MURIEL                        ;OLIVIER                       ;0631944061;19660503;86579660            ;          
+71320171222; 73560193;YF989 ;ETERNACK CARINE                       ;;;;;MME         ;CARINE                        ;ETERNACK                      ;0623234005;        ;86501559            ;          
+71320171222; 73560194;YF989 ;GARIN DIDIER                          ;;;;;MME         ;DIDIER                        ;GARIN                         ;0686186475;19670331;86555900            ;          
+71320171222; 73560195;YF989 ;POSTIC CATHERINE                      ;;;;;MME         ;CATHERINE                     ;POSTIC                        ;0609475441;        ;86867584            ;0234057750
+71320171222; 73560196;YF989 ;BOYER FELICIA                         ;;;;;MME         ;FELICIA                       ;BOYER                         ;0768663703;19951114;86748262            ;          
+71320171222; 73560197;YF989 ;EL KHODR SANAA                        ;;;;;MME         ;SANAA                         ;EL KHODR                      ;0602726062;        ;86906468            ;          
+71320171222; 73560198;YF989 ;BLANDIN CATHERINE                     ;;;;;MME         ;CATHERINE                     ;BLANDIN                       ;0626804644;        ;86444100            ;          
+71320171222; 73560199;YF989 ;LOREAU MARIE ROSE                     ;;;;;MME         ;MARIE ROSE                    ;LOREAU                        ;0621242392;        ;86929886            ;          
+71320171222; 73560200;YF989 ;gibaudan bertrand                     ;;;;;MELLE       ;bertrand                      ;gibaudan                      ;0687694794;19690607;86227364            ;          
+71320171222; 73560201;YF989 ;HERNANDES MARTINE                     ;;;;;MME         ;MARTINE                       ;HERNANDES                     ;0671040409;19511123;86429787            ;0147403090
+71320171222; 73560202;YF989 ;thibaut huguette                      ;;;;;MME         ;huguette                      ;thibaut                       ;          ;        ;86831129            ;0329869409
+71320171222; 73560203;YF989 ;OUAHHOUD CHERIFA                      ;;;;;MME         ;CHERIFA                       ;OUAHHOUD                      ;0615180789;        ;86920493            ;          
+71320171222; 73560204;YF989 ;BOIVIN MARIE LINE                     ;;;;;MME         ;MARIE LINE                    ;BOIVIN                        ;0647772481;        ;86953509            ;          
+71320171222; 73560205;YF989 ;SEVILLA DANIELLE                      ;;;;;MME         ;DANIELLE                      ;SEVILLA                       ;0611593192;19490913;86751022            ;0468825514
+71320171222; 73560206;YF989 ;CHRISTOPHE ISABELLE                   ;;;;;MME         ;ISABELLE                      ;CHRISTOPHE                    ;0644035217;        ;86362514            ;          
+71320171222; 73560207;YF989 ;BONNEFOND SOPHIE                      ;;;;;MME         ;SOPHIE                        ;BONNEFOND                     ;0617511186;19680202;86290650            ;          
+71320171222; 73560208;YF989 ;BERTIER ELODIE                        ;;;;;MME         ;ELODIE                        ;BERTIER                       ;0650314617;19841225;86751409            ;          
+71320171222; 73560209;YF989 ;BUGEAN MARTINE                        ;;;;;MME         ;MARTINE                       ;BUGEAN                        ;0622502223;        ;86346524            ;          
+71320171222; 73560210;YF989 ;CHOMEL CHRISTELLE                     ;;;;;MME         ;CHRISTELLE                    ;CHOMEL                        ;0610231188;        ;86332559            ;          
+71320171222; 73560211;YF989 ;VERDURMEN CHRISTINE                   ;;;;;MME         ;CHRISTINE                     ;VERDURMEN                     ;0688147552;19670710;86549247            ;          
+71320171222; 73560212;YF989 ;NORDT FRANCINE                        ;;;;;MME         ;FRANCINE                      ;NORDT                         ;0678536749;19731104;86283649            ;          
+71320171222; 73560213;YF989 ;FOULIARD ALICE                        ;;;;;MELLE       ;ALICE                         ;FOULIARD                      ;0768805017;19830828;86267444            ;          
+71320171222; 73560214;YF989 ;MAUNY OCEANE                          ;;;;;MME         ;OCEANE                        ;MAUNY                         ;0679169909;        ;86490670            ;          
+71320171222; 73560215;YF989 ;VIVIEN LAURENCE                       ;;;;;MME         ;LAURENCE                      ;VIVIEN                        ;0644972713;19530510;86362957            ;          
+71320171222; 73560216;YF989 ;dechevre laurence                     ;;;;;MME         ;laurence                      ;dechevre                      ;0769929797;19730529;86817489            ;0954411029
+71320171222; 73560217;YF989 ;GASPARD STANIA                        ;;;;;MME         ;STANIA                        ;GASPARD                       ;0601950310;19901022;86744681            ;          
+71320171222; 73560218;YF989 ;DEVOLDERE CHRISTIANE                  ;;;;;MME         ;CHRISTIANE                    ;DEVOLDERE                     ;0633230095;        ;86945269            ;0967028078
+71320171222; 73560219;YF989 ;OLLIVIER FREDERIQUE                   ;;;;;MME         ;FREDERIQUE                    ;OLLIVIER                      ;          ;19660711;86249418            ;0251122760
+71320171222; 73560220;YF989 ;LEMEE PAULINE                         ;;;;;MELLE       ;PAULINE                       ;LEMEE                         ;0658776266;19950101;86701566            ;          
+71320171222; 73560221;YF989 ;FRANCES LUCIENNE                      ;;;;;MME         ;LUCIENNE                      ;FRANCES                       ;0616731053;        ;86340189            ;          
+71320171222; 73560222;YF989 ;BLANCHET FLORENCE                     ;;;;;MME         ;FLORENCE                      ;BLANCHET                      ;0626456327;19650622;86350748            ;          
+71320171222; 73560223;YF989 ;HAJAS PLESSE CAROLINE                 ;;;;;MME         ;CAROLINE                      ;HAJAS PLESSE                  ;0622741331;19700124;86427400            ;          
